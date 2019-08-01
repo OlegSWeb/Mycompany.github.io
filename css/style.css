@@ -16,6 +16,7 @@ body {
 	width: 100%;
 	background: #000;
 	display: -webkit-flex;
+	display: -moz-flex;
 	display: -ms-flex;
 	display: -o-flex;
 	display: flex;
