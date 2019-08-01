@@ -1,0 +1,2 @@
+# Mycompany.github.io
+Mycompany
